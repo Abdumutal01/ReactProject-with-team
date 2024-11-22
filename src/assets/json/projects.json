@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "https://s3-alpha-sig.figma.com/img/0fe5/044c/18d9cfa38ae606a1f511e4f64de24d62?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CaEm~5g7kQSOVWOxRzBqBF6bIT7qZ3SF4KDyaIPeZyLxdL2j7gHZKyqCzb7Ludhu41TMVGwsqu9MBydYScPSYH4w50IazYKdv07l91Jler7MMdjYeUbUB4uH~-XUQRzphkO6WvtMKycrZyEA59hkAuNEPH5Tg3OmpNFQnIr-r4UpiwVuV9OstQ2fSjYnDR8lTwxFdTiyt7fhNs8N7UZK55axM8CYOSY3L-MJmYNQW-nwIv~DERbTpcXARhKL47qRKFp4MorHY8asppyEGtgMAAjXOCXPw8WupZC4DSNk7ODnnxtO9bA~orgiB94NG~guqnXMnkWAq1Qj8oHVQfZEtA__",
+        "name": "Cabify",
+        "text": "Кроссплатформенное приложение под Android и iOS разработано на React Native(Python)"
+    },
+    {
+        "id": 2,
+        "img": "https://s3-alpha-sig.figma.com/img/5b7f/d923/b70e3cd7565092f85fb0801654a0c7ca?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NQ794Zw4E9e3pY15bEFWL64WBlUpr~0zuDhwjRtRFFZtamNA9HosaIUycwPNb2TUJprA--5hm9k2N9ebPjBKE74s~KmiVxxn~8J-Ptiz-a30kUOJPaPq1zb6e0V2DaZNO0288dhtTXUhEeUwmNcVIVNzFtZBuiXjw8moK-R5w2-WySVjSnZijJ-d1oeAC5xiJkdX6gInLFl2mwLUWxCBVjhyyryfETT~K0DGmB-9u3SrF7OKEWwAf3EIPzWciJp6J-2JCMC3YK0X-UVLXBDnGmTQB4nxZfIQeYvjGD6uzcP7JvjDtgG5kduHrAv856GncVoFUGbNh2YlF0FgJ2zXvQ__",
+        "name": "Ural Airlines",
+        "text": "Все сервисы для пассажиров «Уральских авиалиний» в одном приложении на Swift и Java"
+    },
+    {
+        "id": 3,
+        "img": "https://s3-alpha-sig.figma.com/img/f4d4/4b90/01916c6afe3a690193eedcbff0e4e920?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MuHIWUKybspM2QRMIR1NySaHlgJ3R3nhMeTIXGII6-RhZ5WjSnptSsoscVgn8QiB8xjWSKR~felvpQLrUpXIqTli1IsThRh2CZyye330gWnsE9elB963i5od4HIqFCjelFyO3hS80co3VlyclqZbF0z0eEaFREfxNBtV8kquSx6caYlgYpqBO8o0KMnL0ReYreN6-sG2jnSx05lSx7TMqXNZhbPdnKq52aAKMMNutHKCZLnpYXN2lTXBKQ-fVFOSW6LeOc0b0NUCOF7KLMuSkzv7Je9cXIJrVDfZ08EkFaunWBID8MrIjRQX6GV1WsVm1h2jWwCz7Oqx3mZREoqvIA__",
+        "name": "OpenGift",
+        "text": "Система монетизации OpenSource-проектов на основе блокчейна hyperledger fabric"
+    },
+    {
+        "id": 4,
+        "img": "https://s3-alpha-sig.figma.com/img/cc8e/810f/a4f7ab487caa3465f5f52cf2492f472a?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FdW0W7Be4Woeoaf1l1-1IlXq5bKjnA4rxI~sphGV~lFhZKBDqzt~xyAmrq0PahYLd5uiyyZukqdLi4EhbwmGrCyFTB-ZhUbOP8JKRqxTv3PonQrMkSHcxRnYygWu4D8a8oujWIbTVkRFhJ2PRThAEvqi58DRY1f8Y4zhzdAh~HZaCHOQSPjaEeVa-dhRjJGo3tGJhWKLwehJudy7vy-xJKO6AnDteuYMAeCO3FOTKIpYSmNIl-eB1LqHvvrDFjUi7JFEf1M70ypo5jzf3MxeLufQPa6vbTRMfrqdHdCG-PqWPIdySXCzMfkwUzObtO3Kx7cfQk~09FdfBfuWjaTd1w__",
+        "name": "PlanDi",
+        "text": "Сервис поиска актуальной работы проектировщикам и компаниям"
+    },
+    {
+        "id": 5,
+        "img": "https://s3-alpha-sig.figma.com/img/6290/94f2/34428042e5adf40368ccf6ef5a952777?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FJvlK7O0MNVW9HBVN9HTFSfuEqG-IM7Gjl4~3KsIjITYUNloHrEtIhjnbZI2yX8-bIysQ15jQFzPWvLlGEIypiICVULBlc5UleXFofyCIT5q3v0H0NUsG5eQultmuXOytRV6jJeUXuVQwUOScfcIKF2rxWazmEwxs6x5IoQLmjWOOxYY~FV6dI8OSmYMbOOmYtmrR1n5Jht7E5PU-r-La6lsCdkjaizLmkA9s9fYJMTGCDsZ1IT~Ts-LZ613S-AsYNpx1wOkFm9nnikhGOKBG2nYbEgZEJCfOmkKF4jIXuNwmsOI65QLprRpNFWQqM-mi4MJBQtjqWeklim6YYD3Pg__",
+        "name": "Коалиция",
+        "text": "Проект для ведущего в России Центра образования, который осуществляет подготовку школьников к сдаче ЕГЭ."
+    },
+    {
+        "id": 6,
+        "img": "https://s3-alpha-sig.figma.com/img/f784/c080/9bac67feaf0f345a47e2b3497e0f6bbe?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bnh9nCXOjo7PfyGGVY-su7PlgDPgPr4MP3HbZl9Ch5ykS5RWY0AbkG1A5qdQIu8153F3QxD-GyVDnt1R2legFS4JPNRu7pFSu1UnE3rPTgzcd-Xd4Rsl4tuxweS7Mcau2VHdfJ~rpdhPxgXFVlXJN-VYRieDHe3iWT-8Ed-qty6H3HggIsKeRK0jzAjTwktKPE0DRlspFxVV-5zl74jG7ehQf9ZTmR0oZlHMyFv6ITrQ7A7BGy23YQqvG0ibMktbn4YJpcvdy2D~qpopBqV~MuYinUsZbZgzo3kgXYNGQ33WoHJodzOjpMdE~~2ptfdBp5sEPVJAYvMw7uaAY0doQA__",
+        "name": "Rubetek",
+        "text": "Управление домом IoT микрофреймворк на языке Python овместно с Java и Swift"
+    }
+]

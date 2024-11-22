@@ -1,0 +1,32 @@
+@import './fonts';
+@import './mixins';
+@import './variable';
+@import './star';
+@import './body';
+@import './container';
+
+
+* {
+    @include star()
+}
+
+body {
+    @include body()
+    
+}
+
+.container {
+    @include container();
+}
+@media screen and (max-width:992px) {
+    .container {
+        width: 85%;
+    }
+}
+
+
+@media screen and (max-width:768px) {
+    .container {
+        width: 95%;
+    }
+}
