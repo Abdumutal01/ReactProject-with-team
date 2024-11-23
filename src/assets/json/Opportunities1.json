@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "img":"https://s3-alpha-sig.figma.com/img/c20b/fccc/96bad957808c97275bcc2bcd2dfb1723?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FeHK8IwXXVMg5D73AwxBkBgBrnylhXlPxpjVnw2S92McxI5ViYfLH624kkHxhQfy06BpYBaHKoq5LqBzZ7~4FfB7c4bCydwXnZz-uMMLNUKSlXj3g8eEcJCeoikvFqAqx3JVLpdkQgju96JlT1jkqU5dBAsKLb3AEdpf4ZUpId8uQ0GXCAy6OshDWNiP5D0r3Juyhp7CzHIH9Yu1oQ-DZAZjRmQLpdt5uOIDCGuxPbiln4fuuJ8lHIf4-dlFEZdC06v4bqlORuuzSJsHD7RIMhcQfA4CTFGfUx9pHF97XhoiyZplXWPv8aIDS8JzxvQWwbRc~wD0LHP99C9i-NCN2Q__",
+        "name":" Ob-havo ma'lumotlari tahlili",
+        "text":"sharoitlari va tuproq namligini tahlilI"
+    },
+    {
+        "id":2,
+        "img":"https://s3-alpha-sig.figma.com/img/033a/b2fd/648a6f60f299bf62f1d55e85753b3b87?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=doQTkrjDZ0sDHsU3AI9X9vG2GH9Q2i61MMD8aVQFI9d2b7uq3rrAX-TSUa~sz8e92vK7h3foV0smi3E11ZlzyHtCg82tsR6uH4OHcFI~sTpLWeN2IpuTI2IQxobiv84KXzSkh2eGJ3efy1P0bk0KpxJ6dOqXblec82J3eu4yPc3Vn7f2oCWk-GsZ0nC~3Sbt68S6jOeaQDYwhYQNXGMvhKZF4fQfvNtfuqaAtdSwqA4X6CGFfOlBJVbK98aokpQMLzlDR0o1h4gT2OCXynPvry0McVCw~k3VwXH0kvOiOTSUiKCq1hMLbn9-4JDj55qmWjZko74c1TOn~CNZxOxLBg__",
+        "name":"Kasalliklarni aniqlash ",
+        "text":"sun'iy intellekt yordamida kasalliklarni oldindan aniqlash"
+    },
+    {
+        "id":3,
+        "img":"https://s3-alpha-sig.figma.com/img/d011/a3c3/399571cc21b6f38a93c791c4cfb94929?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcTcsTtTavXKEtw4JsLGlBbs05zHKW8UH-P1--oI9jBkZycdgaN7GKWlxWI33a~TAQXhNAjxzwrjSNfSfPjTs9KaA1clex4PYB9PWaHkrVum3xyCy0QLF0t3zTpK~ezdx4eqCeOOJQLuwOGDI2vJAVspMTxxl69tyAYv3ZJAzTTHfQ2PZxVanf~hoqinsKC7SBtWBvVdQcA9uKN23dvl65F1iRcpzPo5~Cd0d0GggB1N-1ELDQ6rwj2ezTHY5p8JW7GpQmqGUrvyrzg37MDKbt6JQaHiGPCAe5AyGT7FTDkfGFvTR-xwGbfVqu5WNy9QI~pUFJpIXZKGG4k2LoT~zQ__",
+        "name":"O‘simliklar haqidagi ma'lumotlar",
+        "text":"HAR xil ekinlar va ularning parvarishi haqida batafsil ma'lumotlar"
+    },
+    {
+        "id":4,
+        "img":"https://s3-alpha-sig.figma.com/img/fb57/b136/7345751833cb1e19a0c44e6a01a41522?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Hd9LRw-d2qa23QnafQyzLukESrpg3EElR1sfv8FC4X3IxBULQ7p2Q5sEcDyOFylOv9UuwIfP7ApfvR71wGubBfaZCEgyIsfRkWJY1fq7kZKDH~FXWabokGfpfJlqXDExqzaTEpXorjolcnz2Z9fXpLNDJyF~UmcMJUB~mrRexuZTEbHMv5WU2cqw1mUqGjDn7oraMPVpRYmlwAcQWHKY-6nkUwknxHA-xEqkPR8GVbhBo6hFL~lh~y7rQ9pFRJpT7TmdmG3~yvl5q0TpeFyqP7cZ2KzjLQ84P-ULKtw6JhCMtI2TtrMSOYtL1Yi5ouwmae0g030GB2TvqhFS59xNng__",
+        "name":"Hosilni bashorat qilish",
+        "text":"hosilning kutilayotgan miqdori va sifatini oldindan bashorat qilish"
+    }
+  
+]

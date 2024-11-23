@@ -1,0 +1,20 @@
+[
+    {
+        "id":5,
+        "img":"https://s3-alpha-sig.figma.com/img/9085/db7a/d892b66b0b554045742f5cf0c4533c9b?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qEJjx2ku149b3HdSkMCCfA1BBPa3UX4ij-mm8Gk6gOfdDOhMOsEWTNj8oaca~91KUP8gkpR3rUBZxpDKd9ZkT4GhV-MI3kLNy5zzM3lhUfPI933KjTLt4J1IjzQ1KIrGHZjVxqYzK2pd5OHBFrNiMSvhT40AqvJCvWxgHBoL7SnkPlrbUlgZkNVrQDW5Dzh-HwRHQycZ0O4l4QpbJM6G3s1yWfHKnQSvATjzwxpd1UJ6PljjArQRngfFuFPfKitKzJs3~vsjjMMdfkMvWMQw3KOQJZiSXQkD5fsgwuQ8VcaABjJM~VBPdxt7qT3ks1OMs89A0-2nEtdok2CtI0qb5A__",
+        "name":"Gidroponika va yangi texnologiyalar",
+        "text":" zamonaviy texnologiyalar haqida bilim berish "
+    },
+    {
+        "id":6,
+        "img":"https://s3-alpha-sig.figma.com/img/5ced/a5cc/ed4d3c11fc54b33c583df199c04f52aa?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WsTUcWh1xz5jD5F4ArqQoDshdOuDXIGzOlhP-VA2lCymobc2nC7pWGVB3p~pYThqTCjaXcAhjeqfFwLOt4Rcj~lsbszjvFcoWgWhUxMnL1vsXkmDXXdInGwJau22bBss88dYVxkbMQr~LqxeNojNszFXtfci8k314ULN4mHVG8lXgzskJPmlGOrgqcCYpVjSv0Njch2AkAh~e4FfwNLbObHvc467Ih-qpJW2Pxfyd4WVSBIAEdGeIIKzkWL3tgES5SJRpuiMzqHZ2lvUMl6gSKY3i3wgQl9y~wkCv2z7c7-aPM0mhtIzlSDB0XcXwThJwIftd4I2GahquUileBEEsw__",
+        "name":"Savdo va bozor tahlili ",
+        "text":"mahsulotni qaysi vaqtda va qayerda sotish maqsadga muvofiq ekanligini ko‘rsatish."
+    },
+    {
+        "id":7,
+        "img":"https://s3-alpha-sig.figma.com/img/89c5/fe7c/6473bd0bdacb88ed03ad6b3d6cf429e1?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dSJe-psULx2wR1P3Z~DmaDocXEtBU0vZPA5fXHavo6D63Yhz9g2Tyg~N~1T94-r~rM8Nc19~X1DDNOAj1a8IFXRteWjRujzFWr9xbM2A0AyqRIVM00etztbBd78p3P9Su8uHkhj22wbF7qCPJflfKMjujJJoIyNrXdKHQipWOUu4gojKUZiPn0cbcC1BnzcE8tm1VthaskZkXlrB~rGi2zndBm3u3yR5QVtkWTrEKr~ZgVug0fVvadO7nVEi6UdCU5h3WhBrrHcUR5waS3XPsOeFhBnndn38-0SwSDzIZ1~B0g0vVozPf3Yzno7d34upY9N121VOBWelYDOVYYSTwA__",
+        "name":" Maslahatlar va qo'llab-quvvatlash",
+        "text":"dehqonlarga o‘z faoliyatlarini yaxshilash uchun maslahatlar berish "
+    }
+]

@@ -1,0 +1,36 @@
+.opportunities {
+    background:
+        url(../../../assets/img/opportunitiesBgImg.png),
+        linear-gradient(to bottom, #0d490e, #2e6c33 70%, #38a23b);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 30px;
+
+    &__title {
+        font-family: Poppins;
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 45px;
+        letter-spacing: 0.1em;
+        text-align: center;
+        color: #169541;
+    }
+
+    &__general1,
+    &__general2 {
+        display: grid;
+        grid-gap: 28px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    &__general1 {
+        grid-template-columns: repeat(4, 339.11px);
+    }
+
+    &__general2 {
+        margin-top: 17px;
+        grid-template-columns: repeat(3, 339.11px);
+    }
+}
