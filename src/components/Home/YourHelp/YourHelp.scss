@@ -1,0 +1,61 @@
+@import '../../../App.scss';
+
+.yourHelp {
+    margin: 22px 0px 40px;
+    padding: 67px 62px;
+    border-radius: 40px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 45.5px -7px rgba(0, 0, 0, 0.25);
+
+    &__general {
+        display: grid;
+        grid-gap: 40px;
+        align-items: center;
+        grid-template-columns: 65% 30%;
+
+        .yourHelp__data:nth-child(1) {
+            position: relative;
+        }
+    }
+
+
+    &__title {
+        font-family: Anek Odia;
+        font-size: 69px;
+        font-weight: 800;
+        line-height: 82.8px;
+        letter-spacing: 0.01em;
+        color: rgba(26, 198, 111, 1);
+
+        span {
+            color: rgba(0, 0, 0, 0.7);
+        }
+    }
+
+    &__arrowImg {
+        position: absolute;
+        top: 20%;
+        right: 37%;
+    }
+
+    &__idea {
+        margin-top: 56px;
+        padding: 41px 20px;
+        border-radius: 20px;
+        background-color: rgba(248, 251, 255, 1);
+    }
+
+    &__adviceLink {
+        font-family: Anek Odia;
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 39px;
+        text-align:end;
+        margin-right: 40px;
+        color: rgba(26, 208, 121, 1);
+
+        i{
+            margin-left: 8px;
+        }
+    }
+}

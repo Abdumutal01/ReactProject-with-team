@@ -1,1 +1,53 @@
-@import '../../../App.scss'
+@import '../../../App.scss';
+
+.together {
+    display: grid;
+    grid-gap: 16px;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(3, 480px);
+
+    &__box {
+        background: #169541;
+        display: flex;
+        align-items: center;
+        height: 250px;
+        border-radius: 20px;
+    }
+
+    &__box:nth-child(2) {
+        background: linear-gradient(rgba(0, 44, 15, 0.71), rgba(0, 44, 15, 0.71)),
+            /* Qorong'ilik beruvchi gradient */
+            url(../../../assets/img/togetherBoxImg2.png );
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 21px 0px 15px;
+
+        .together__title {
+            margin-left: 21px;
+        }
+    }
+
+    &__img {
+        width: 190px;
+        height: 250px;
+        // transform:;
+    }
+
+    &__title {
+        font-family: Roboto;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 35.81px;
+        color: #FFFFFF;
+        text-transform: uppercase;
+    }
+
+    &__text {
+        font-family: Roboto;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21.09px;
+        color: #BCBCBC;
+    }
+}

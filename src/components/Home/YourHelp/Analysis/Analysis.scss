@@ -1,0 +1,74 @@
+.analysis {
+    &__general {
+        display: grid;
+        grid-gap: 40px;
+        grid-template-columns: 60% 40%;
+    }
+
+    &__box1 {
+        padding: 30px 25px;
+        border-radius: 30px;
+        background: rgba(255, 255, 255, 0);
+        border: 4px solid rgba(214, 217, 221, 0.8);
+    }
+
+    &__title {
+        font-family: Anek Odia;
+        font-size: 39px;
+        font-weight: 600;
+        line-height: 65.52px;
+        color: rgba(22, 149, 65, 1);
+
+        span {
+            color: rgba(0, 0, 0, 0.7);
+            margin-right: 5px;
+        }
+    }
+
+    &__text {
+        font-family: Anek Odia;
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 40.37px;
+        letter-spacing: 0.03em;
+        color: rgba(0, 0, 0, 1);
+    }
+
+    &__btn {
+        font-family: Anek Odia;
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 42px;
+        text-align: center;
+        padding: 5px 20px;
+        background: transparent;
+        border-radius: 10px;
+        color: rgba(221, 84, 0, 1);
+        border: 1px solid rgba(221, 84, 0, 1);
+        transform: translateY(-40px);
+        margin-left: 20px;
+        cursor: pointer;
+    }
+
+    &__box2 {
+        position: relative;
+        background: #1C2347;
+        background-image: url('../../../../assets/img/analysisBox2BgImg.png');
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        border-radius: 40px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        padding: 30px;
+    }
+
+    &__box2Inner {
+        font-family: Anek Odia;
+        font-size: 39px;
+        font-weight: 600;
+        line-height: 65.52px;
+        color: #FFFFFF;
+        border-bottom: 1px solid #FAFF00;
+    }
+}
