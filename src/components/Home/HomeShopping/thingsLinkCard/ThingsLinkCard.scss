@@ -1,0 +1,48 @@
+.thingsLinkCard {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 35px 60px 34px 20px;
+    border: 1px solid #199643;
+    border-radius: 50px;
+    margin-bottom: 30px;
+    cursor: pointer;
+
+    &__box {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+
+    &__title {
+        font-family: Anek Odia;
+        font-size: 69px;
+        font-weight: 800;
+        line-height: 82.8px;
+        letter-spacing: 0.01em;
+        color: #1AC66F;
+    }
+
+    &__img {
+        width: 64px;
+    }
+
+    &__link {
+        color: #000000;
+        opacity: .7;
+        font-size: 50px;
+        font-weight: 800;
+        padding: 8px 22px;
+        border-radius: 10px;
+    }
+}
+
+.thingsLinkCard:hover {
+    box-shadow: 0px 13px 9.5px 2px #1AD07970;
+}
+
+.thingsLinkCard:hover
+.thingsLinkCard__link {
+    background: #FFC107;
+    
+}

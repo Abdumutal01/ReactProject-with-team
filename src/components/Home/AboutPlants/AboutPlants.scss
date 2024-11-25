@@ -1,0 +1,69 @@
+@import '../../../App.scss';
+
+.aboutPlants {
+    margin: 103px 0px 44px;
+
+    &__general {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    &__btnBox {
+        margin-top: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &__btnTitle {
+        font-family: Inter;
+        font-size: 23px;
+        font-weight: 700;
+        line-height: 34.5px;
+        color: #FFC107;
+    }
+
+    &__btnLink {
+        font-family: Inter;
+        font-size: 23px;
+        font-weight: 700;
+        line-height: 34.5px;
+        text-align: center;
+        color: #FFFFFF;
+        padding: 20px 10px;
+        border-radius: 10px;
+        background: #FFC107;
+    }
+
+    &__title {
+        font-family: Anek Odia;
+        font-size: 70px;
+        font-weight: 700;
+        line-height: 117.6px;
+        color: #9A9797;
+
+        span {
+            color: #1AC972;
+        }
+    }
+
+    &__text {
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 30px;
+        color: #6E6A6A;
+        // width: 800px;
+    }
+
+    &__moreLink {
+        font-family: Inter;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 60px;
+        text-align: left;
+        color: #1AD079;
+    }
+}

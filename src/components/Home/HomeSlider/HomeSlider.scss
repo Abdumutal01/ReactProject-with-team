@@ -1,0 +1,49 @@
+.slider-container {
+    text-align: center;
+    padding: 20px;
+    max-width: 98%;
+    margin: 0 auto;
+
+    .slider-title {
+        font-family: Anek Odia;
+        font-size: 70px;
+        font-weight: 700;
+        line-height: 117.6px;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: #3B3B3B;
+        border-bottom: 2px solid #0E612A;
+        margin-bottom: 45px;
+
+    }
+
+    .slick-list {
+        padding: 0 20px;
+
+        /* Slider chekkasida joy qoldirish */
+    }
+
+    .slider-item {
+        margin: 0 20px;
+        width: 344px;
+        height: 219px;
+        border-radius: 10px;
+        background: #6C98DA8A;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+
+
+    .slick-dots {
+        bottom: -30px;
+
+        li button:before {
+            color: #007bff;
+        }
+
+        li.slick-active button:before {
+            color: #0056b3;
+        }
+    }
+}

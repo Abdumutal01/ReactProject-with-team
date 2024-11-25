@@ -9,9 +9,9 @@
 
     &__general {
         display: grid;
-        grid-gap: 40px;
         align-items: center;
-        grid-template-columns: 65% 30%;
+        grid-template-columns: 60% 35%;
+        grid-gap: 100px;
 
         .yourHelp__data:nth-child(1) {
             position: relative;

@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Mineral o’g’itlar",
+        "img":"https://s3-alpha-sig.figma.com/img/a8a4/df40/3c620681247e4f1a7670d2123964c310?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GAITNsN-SZrA~eZutF0ohyQ4YmqyM6cJPb-TzKEamtXuReCK07CQe7XrrXtkVI5IlOxDvbgza22gSCH3TLAqqkFIfZzvRO6zHp5TDWyPnIrcQtI8GyJso45X5zZUpBI6bs0B3nwqB-2T8OM--oyRqyRl8rce7tC890e2Iw5hLEvcZzH2c0ixoc1H0qRkdFwh3i14BJaRwekY8B6--OPLP2VR~C0D1uby6hAJtXPCh15N0JAERYUWyQBkPIE6mne9BtBIfJ2TkYXuaYgym6CcpH6TBjE36OXIIqpVWrIIpwG6wD6~m5g7i3n3i0t~iPl8veS8bHGmc1YCGFMX4i1iIg__"
+    },
+    {
+        "id":2,
+        "name":"Kochatlar",
+        "img":"https://s3-alpha-sig.figma.com/img/b91d/33e5/f21c470ba2e6e1bb2b1d83e37d719d9f?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VfDjsrG9CE~2G7MsLyqRxli1JWnmH4M0kHa-FeujQQKMFfaAG2EhamDcUea4sMN5dsrAz2lMIhtcezfvRGt2CRYyr~q0Syo9tydyPTwUfuqrKxV-bOTez3HwJHTJUtlpBaywRlNoEVJxHO2LYV5ovCajXOisuYP1zqamkgZHXKWCDbj5vug8uzK~MCEAHVXkOuqe30u5p7HhbXdqvc-PJPqmevXVKldcaBmlPwvOfLAHuWKjSpal~Jz414o26~DQ16D9qpmaOSYSuuHhi6zUW9hvVHSNWU0A4rAmXiib~DtaDmz2NFx~EMRbpzL3HAwtS6mLvUEQ652C4pRDwa2XtA__"
+    },
+    {
+        "id":3,
+        "name":"Vetirinariya",
+        "img":"https://s3-alpha-sig.figma.com/img/771e/84d8/acc0e01a3275228f6f6cbaf526afd8de?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GVqFqiMIQDpvW4S9eLGaybKzKRn-JBbLZIy3YMCK28xMYOeHhv7RYDFmzuKwFerLEKtGIlHXX1s--y2IMWOb6~0i-UVpuQKkLLAd-v5lUTUhHx3RWEmA70PBEmfSTh8DnhoHT-MHwXopmuOkwoFHvpP5etyo1XB6GqAReT4YJ0eF6t9kLGTu3TnYs1XLPeE0SOZvdYnFYGfU6sVeWjZkyGf-gdSF7LQLulimdljY3BBGBOpsEb160lIanjscrQ6yZuCSD~F4Sd-zr1Ty81Jtx8-OUV34lV~iVAegvM9hg~XD-Mk9nPLOcTk7utl8d1U-GLShaHCzmyNa3aBLddhilg__"
+    },
+    {
+        "id":4,
+        "name":"Urug’lar",
+        "img":"https://s3-alpha-sig.figma.com/img/35f6/a0ca/e3787e442477ac24ee63dbfb536ea448?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CcReAXPxN4coqWzOo~uvBSQjMmd1iXKio6S~c3rZGGfMIRq7sfzG2IX~Rmqh5AWCdXxZOjpnJAEVSanHYFWygmIqXpwh90XFXJ4R62Go7nRtSnlErvPsGO-aJaUt1l9Hfe44HL-VkjUko9t-a~wueJls1D~clEfjaEsWOzg3X5tgjMCZufMQRJeJz5C8ymW7xkGU2nrkp51vVqkvlU1swomj~CHDuTz7KEzDRUCmVlK2Xg-J9HKvgb3q-y72504ejRWGLz~V~RnJqRp3YTbdjT2L5cUbK0yFZA~5n12UUkcFG4WMWapTg9NLWu-LSAklrJjx0dRwqApYUgJR4VnueA__"
+    },
+    {
+        "id":5,
+        "name":"Dexqon bozor",
+        "img":null
+    }
+]

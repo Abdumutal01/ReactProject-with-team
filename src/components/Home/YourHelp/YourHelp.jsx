@@ -7,6 +7,7 @@ import YourHelpJson1 from '../../../assets/json/yourHelpJson1.json'
 import YourIdeaCard from './YourIdeaCard/YourIdeaCard'
 import Analysis from './Analysis/Analysis'
 import Weather from './Weather/Weather'
+import IllInfo from './IllInfo/IllInfo'
 
 
 
@@ -49,6 +50,7 @@ export default function YourHelp() {
 
                     <div className="yourHelp__data">
                         <Weather />
+                        <IllInfo />
                     </div>
                 </div>
             </div>

@@ -1,0 +1,57 @@
+@import '../../../App.scss';
+
+.system {
+    padding: 40px 0px 120px;
+    background: #169541;
+    box-shadow: 0px 0px 36.3px 7px #00000040;
+
+    &__title {
+        font-family: Anek Odia;
+        font-size: 70px;
+        font-weight: 600;
+        line-height: 117.6px;
+        text-align: center;
+        color: #FFFFFF;
+
+        span {
+            color: #1AD079E0;
+            text-decoration: underline;
+            margin-left: 15px;
+        }
+    }
+
+    &__general {
+        display: flex;
+        gap: 163px;
+        margin-top: 20px;
+        align-items: center;
+    }
+&__data{
+    i{
+        margin: 20px 0px;
+        font-size: 50px;
+        color: #1AD0795E;
+        transform: translateX(45px);
+    }
+}
+    &__box {
+        display: flex;
+        align-items: center;
+        gap: 38px;
+    }
+
+    &__inner {
+        font-family: Averia Gruesa Libre;
+        font-size: 50px;
+        font-weight: 400;
+        line-height: 59.67px;
+        color: #FFFFFF;
+
+        span {
+            font-family: Anek Odia;
+            font-size: 25px;
+            font-weight: 500;
+            line-height: 41.83px;
+        }
+    }
+}
